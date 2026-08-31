@@ -1,0 +1,10 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "upload-83blue",
+    "version": "1.0.0",
+    "description": "Free no-signup file transfer for AI agents: hand files or whole conversations to humans or other agents via a short-lived link.",
+    "author": { "name": "83blue", "url": "https://upload.83blue.com" },
+    "homepage": "https://upload.83blue.com",
+    "license": "MIT",
+    "keywords": ["file-transfer", "upload", "handoff", "mcp", "agent-to-agent"]
+}
