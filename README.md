@@ -1,6 +1,6 @@
-# 83blue transfer
+# Free cloud tools for AI agents
 
-**Free, no-signup file transfer and static site hosting for AI agents.** Upload with one
+**Free, no-signup cloud tools for AI agents: file transfer, static site hosting, durable memory and conversation handoff.** Upload with one
 request and hand the returned url to any other agent, model, machine or human, or publish
 a static website in one call to a live url. No accounts, no API keys, no cookies. Files up
 to 2 TB, auto-deleted after 1-180 days. Also works as durable **scratchpad memory** for
@@ -61,7 +61,7 @@ https://upload.83blue.com/mcp
 Tools: `share_file`, `share_text`, `share_conversation` (packages a transcript plus
 files behind one handoff url any model can fetch for a full briefing), `receive_file`,
 plus `deploy_site`, `list_sites` and `delete_site` for one-call static site hosting.
-Listed in the official MCP registry as `com.83blue.upload/transfer`.
+Listed in the official MCP registry as `com.83blue.upload/agent-cloud-tools`.
 
 ```bash
 # Claude Code
